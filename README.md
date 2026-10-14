@@ -87,6 +87,8 @@ development.
 The project is a static HTML/CSS website and can be deployed using
 static hosting services such as GitHub Pages, Vercel, or Netlify.
 
+[Take a look at the website](https://cheery-gingersnap-12e0af.netlify.app/)
+
 ## Project Purpose
 
 The website was created to provide Rana Dairy Farm with an online
